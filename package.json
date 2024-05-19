@@ -6,7 +6,9 @@
     "type": "git",
     "url": "https://github.com/DeanRTaylor1/noctis-lux-deans-version"
   },
-  "version": "0.0.1",
+  "publisher": "DeanRTaylor1",
+  "icon": "images/lux-medium.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.89.0"
   },
