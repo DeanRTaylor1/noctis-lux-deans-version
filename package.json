@@ -2,6 +2,10 @@
   "name": "noctis-lux-deans-version",
   "displayName": "Noctis lux (DeanRTaylor's version)",
   "description": "A slight modification to noctis lux to match my personal taste",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeanRTaylor1/noctis-lux-deans-version"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
