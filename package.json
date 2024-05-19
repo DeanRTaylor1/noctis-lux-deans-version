@@ -1,0 +1,21 @@
+{
+  "name": "noctis-lux-deans-version",
+  "displayName": "Noctis lux (DeanRTaylor's version)",
+  "description": "A slight modification to noctis lux to match my personal taste",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "noctis-lux-deans-version",
+        "uiTheme": "vs",
+        "path": "./themes/noctis-lux-deans-version-color-theme.json"
+      }
+    ]
+  }
+}
